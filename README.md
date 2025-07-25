@@ -9,7 +9,7 @@ Smart Shop is a modern, beginner-friendly Flutter mini e-commerce app that demon
 -  Persistent login using `SharedPreferences`
 - Clean UI with icons
 - Organized folder structure for scalability
-- 
+
 FakeStore API – Free REST API for e-commerce testing
 🔗 https://fakestoreapi.com
 
